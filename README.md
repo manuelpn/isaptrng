@@ -8,7 +8,6 @@ entrenamiento ISAP
 
 #Metas
 
-Aprender a usar rit 
 Aprender a usar Git 
 
 
