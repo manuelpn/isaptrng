@@ -8,7 +8,8 @@ entrenamiento ISAP
 
 #Metas
 
-Aprender a usar GIT rapido 
+Aprender a usar GIT 
+
 
 
 #Tecnologias Utilizadas
