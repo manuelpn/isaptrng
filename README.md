@@ -25,6 +25,6 @@ Aprender a usar GIT
 #Miembros con Acceso
 Oscar Crisostomo @KiLL-KaRoL
 
-Manuel Parra @manuelpn
+Manuel Parra Nava @manuelpn
 
 Erick Romero @Zyst
