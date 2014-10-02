@@ -8,7 +8,7 @@ entrenamiento ISAP
 
 #Metas
 
-Aprender a usar Git
+Aprender a usar Git. 
 
 
 #Tecnologias Utilizadas
@@ -24,6 +24,6 @@ Aprender a usar Git
 #Miembros con Acceso
 Oscar Crisostomo @KiLL-KaRoL
 
-Manuel Barra @manuelpn
+Manuel Parra @manuelpn
 
 Erick Romero @Zyst
